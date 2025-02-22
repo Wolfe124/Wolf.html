@@ -1,0 +1,6 @@
+mkdir new-directory
+cd new-directory
+touch README.md
+git add .
+git commit -m "Add new directory with README.md"
+git push origin main
